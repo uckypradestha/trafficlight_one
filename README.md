@@ -5,7 +5,7 @@ Project ini merupakan simulasi sederhana **lampu lalu lintas (Traffic Light)** m
 
 Pada project ini, tiga LED digunakan untuk merepresentasikan lampu lalu lintas:
 - 🔴 Merah (Stop)
-- 🟡 Kuning (Hati-hati)
+- 🟡 Kuning (Bersiap Jalan)
 - 🟢 Hijau (Jalan)
 
 Arduino akan mengatur nyala LED secara bergantian sesuai urutan kerja lampu lalu lintas pada persimpangan jalan.
