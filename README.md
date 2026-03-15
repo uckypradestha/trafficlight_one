@@ -1,6 +1,4 @@
-# Traffic Light Menggunakan Arduino Uno
-
-# 🚦 Project 1 - Arduino Traffic Light
+# 🚦Traffic Light Menggunakan Arduino Uno
 
 ## Overview
 Project ini merupakan simulasi sederhana **lampu lalu lintas (Traffic Light)** menggunakan Arduino Uno. Tujuan dari project ini adalah untuk memahami konsep dasar **pemrograman mikrokontroler**, penggunaan **GPIO (General Purpose Input Output)**, serta pengaturan **waktu (timing)** dalam sistem embedded.
