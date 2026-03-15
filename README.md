@@ -25,6 +25,7 @@ Komponen yang digunakan pada project ini antara lain:
 - 3 Resistor 220Ω
 - Breadboard
 - Jumper wires
+- Atau Modul Traffic Light
 
 ## Circuit Diagram
 Rangkaian terdiri dari tiga LED yang masing-masing dihubungkan ke pin digital Arduino melalui resistor.
